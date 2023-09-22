@@ -1,7 +1,7 @@
 # 😎 KIM YE JIN
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=😎%20Welcome%20to%20Yejin's%20GitHub%20😎%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=220)
-#### I'm trying to be a backend developer.
+### I'm trying to be a backend developer.
 
 - I am a person who is greatly fascinated by the sense of accomplishment that development gives.
 - I am a person who values cooperation and communication. 
@@ -24,7 +24,7 @@
 
 ## 🛠️ Skills
 
-#### Language
+### Language
 #### ⭐️main⭐️
 <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
