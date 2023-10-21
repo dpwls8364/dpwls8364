@@ -1,4 +1,4 @@
-# 😎 KIM YE JIN
+# 😎 KIM YE JIN 😎
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=😎%20Welcome%20to%20Yejin's%20GitHub%20%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=220)
 ### I'm trying to be a backend developer.
