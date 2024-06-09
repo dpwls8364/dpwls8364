@@ -17,8 +17,7 @@
 
 ## 🤙🏻 Contact
 [<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>](https://velog.io/@dpwls8364)
-[<img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat-square&logo=naver&logoColor=white"/>](mailto:dpwls8364@naver.com)
-[<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>](mailto:dpwls8364@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>](mailto:countrygirlv00@gmail.com)
 
 <br>
 
